@@ -1,0 +1,120 @@
+it:
+  views:
+    pagination:
+      next: Successivo
+      previous: Precedente
+      last: Ultimo
+      first: Primo
+      truncate: '...'
+  matilda:
+    header: # voci dell'header
+      profile: Profilo
+      account_settings: Imp. Account
+      groups: I miei gruppi
+      logout: Logout
+      lang: Lingua
+    footer: # voci del footer
+      produced_by: Prodotto da
+      version: Versione
+    cta: # call to action varie
+      cancel: Annulla
+      confirm: Conferma
+      manage: Gestisci
+      back: Indietro
+      invite: Invita
+      create: Crea
+      update: Aggiorna
+      edit: Modifica
+      signup: Registrati
+      recover_password: Recupera password
+      login: Accedi
+      continue: Continua
+      add: Aggiungi nuovo
+      delete: Elimina
+      set_primary: Imposta come primario
+      select: Seleziona
+    labels: # labels di input, tabelle ecc.
+      name: Nome
+      surname: Cognome
+      username: Username
+      email: Indirizzo Email
+      registration_date: Data di registrazione
+      last_access_date: Ultimo accesso
+      username_or_email: Username / Indirizzo Email
+      password: Password
+      password_confirmation: Conferma Password
+      security_code: Codice di sicurezza
+      new_password: Nuova Password
+      new_password_confirmation: Conferma nuova Password
+      current_password: Attuale Password
+      role: Ruolo
+      selected_items: Elementi selezionati
+    titles: # titoli di pagine, cards ecc.
+      select_a_group: Seleziona gruppo
+      create_a_group: Creazione gruppo
+      users: Accessi
+      users_list: Lista accessi
+      users_stats: Statistiche accessi
+      invite_user: Invita utente
+      manage_user: Gestisci utente
+      edit_permissions: Modifica permessi
+      edit_permissions_role: Modifica ruolo
+      informations: Informazioni
+      login: Accesso
+      signup: Registrazione
+      recover_password: Recupero password
+      update_password: Aggiornamento password
+      email_addresses: Indirizzi email
+      update_username: Aggiornamento username
+      add_email_address: Aggiungi nuovo indirizzo email
+      account_settings: Impostazoni account
+      documentation: Documentazione
+      administration: Amministrazione
+      profile_manage: Gestisci profilo
+      profile_emails_manage: Gestisci le email
+      emails: Emails
+      personal_informations: Informazioni personali
+      profile_credentials_manage: Gestisci le credenziali
+      access_options: Opzioni di accesso
+    helps: # stringhe di aiuto verso l'utente
+      insert_name_of_group: Inserisci il nome del gruppo
+      insert_username_or_email: Inserisci l'Username o l'indirizzo Email
+      insert_password: Inserisci la Password
+      insert_security_code: Inserisci il codice di sicurezza ricevuto via Email
+      insert_new_password: Inserisci la nuova password
+      insert_new_password_confirmation: Inserisci di nuovo la nuova password
+      insert_email: Inserisci un indirizzo email
+      search_something: Cerca qualcosa
+      invitation_user_guide: Un email verrà inviata all'utente per invitarlo a completare il suo account
+    messages: # messaggi di errore, alerts ecc.
+      general_error: Si è verificato un errore interno
+      general_success: Operazione completata con successo
+      name_not_valid: Nome non valido
+      surname_not_valid: Cognome non valido
+      username_email_not_valid: Username / Indirizzo Email non valido
+      password_not_valid: Password non valida
+      session_not_valid: Sessione non valida
+      username_not_valid: Username non valido
+      email_not_valid: Indirizzo Email non valido
+      user_not_valid: Utente non valido
+      groups_creation_unpermitted: I gruppi non possono essere registrati
+      groups_max_number_per_user: Hai raggiunto il numero massimo di gruppi disponibili
+      user_update_success: Utente aggiornato con successo
+      email_add_success: Email aggiunta con successo
+      email_delete_success: Email eliminata con successo
+      password_update_success: Password aggiornata con successo
+    strings: # altre stringhe varie utilizzate.
+      no_data_found_title: Nessun dato trovato
+      no_data_found_content: Non ci sono dati presenti nel sistema
+      no_result_found_title: Nessun risultato trovato
+      no_result_found_content: Nessun risultato è stato trovato per la ricerca
+      recover_password_complete_title: Email inviata
+      recover_password_complete_content: Un Email è stata inviata all'indirizzo specificato con i dati necessari a procedere con l'aggiornamento della password.
+      update_password_complete_title: Password aggiornata correttamente
+      update_password_complete_content: Le tue credenziali sono state correttamente aggiornate.
+      primary_address: Indirizzo primario
+      manage_users_permission: Possibilità di gestire gli utenti del sistema ed i loro permessi.
+      action_confirmation_request: Sei sicuro di voler procedere con l'azione?
+      administrator: Amministratore
+      none: Nessuno
+      personalized: Personalizzato

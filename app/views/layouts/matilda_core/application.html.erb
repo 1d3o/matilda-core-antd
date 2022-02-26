@@ -1,0 +1,7 @@
+<%= render 'layouts/matilda_core/head',
+  assets: @_packs.map { |name| [ stylesheet_pack_tag(name), javascript_pack_tag(name) ] }.flatten
+%>
+
+<%= yield %>
+
+<%= render 'layouts/matilda_core/foot' %>

@@ -1,0 +1,14 @@
+{
+  "name": "@matilda/core",
+  "dependencies": [
+    "react",
+    "react-dom",
+    "prop-types",
+    "antd",
+    "less",
+    "less-loader@v7.3.0",
+    "babel-plugin-import",
+    "mapbox-gl",
+    "mapbox-gl-geocoder"
+  ]
+}

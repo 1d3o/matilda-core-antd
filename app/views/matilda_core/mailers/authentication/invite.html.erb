@@ -1,0 +1,8 @@
+Welcome <%= @user.complete_name %>,<br><br>
+
+You have been invited to <b><%= MatildaCore.config.global_title %></b>.<br>
+To complete your profile you must set a password by clicking the following link:<br><br>
+
+<%= matilda_core.authentication_recover_password_view_url(u: @user.uuid) %><br><br>
+
+Thanks

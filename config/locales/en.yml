@@ -1,0 +1,114 @@
+en:
+  matilda:
+    header:
+      profile: Profile
+      account_settings: Account settings
+      groups: My groups
+      logout: Logout
+      lang: Language
+    footer:
+      produced_by: Produced by
+      version: Version
+    cta:
+      cancel: Cancel
+      confirm: Confirm
+      manage: Manage
+      back: Back
+      invite: Invite
+      create: Create
+      update: Update
+      edit: Edit
+      signup: Signup
+      recover_password: Recover password
+      login: Login
+      continue: Continue
+      add: Add new
+      delete: Delete
+      set_primary: Set as primary
+      select: Select
+    labels:
+      name: Name
+      surname: Surname
+      username: Username
+      email: Email address
+      registration_date: Date of registration
+      last_access_date: Last login
+      username_or_email: Username / Email address
+      password: Password
+      password_confirmation: Password confirmation
+      security_code: Security code
+      new_password: New password
+      new_password_confirmation: Confirm the new password
+      current_password: Current password
+      role: Role
+      selected_items: Selected items
+    titles:
+      select_a_group: Select a group
+      create_a_group: Create a group
+      users: Users
+      users_list: Users list
+      users_stats: Users stats
+      invite_user: Invite user
+      manage_user: Manage user
+      edit_permissions: Edit permissions
+      edit_permissions_role: Edit permissions role
+      informations: Informations
+      login: Login
+      signup: Signup
+      recover_password: Recover password
+      update_password: Update password
+      email_addresses: Email addresses
+      update_username: Update username
+      add_email_address: Add new email address
+      account_settings: Account settings
+      documentation: Documentation
+      administration: Administration
+      profile_manage: Manage profile
+      personal_informations: Personal informations
+      profile_emails_manage: Manage emails
+      emails: Emails
+      profile_credentials_manage: Manage credentials
+      access_options: Access options
+    helps:
+      insert_name_of_group: Insert the name of the group
+      insert_username_or_email: Insert the username or email addess
+      insert_password: Insert the password
+      insert_security_code: Insert the security code received via email
+      insert_new_password: Insert the new password
+      insert_new_password_confirmation: Insert the new password to confirm
+      insert_email: Insert an email address
+      search_something: Search something
+      invitation_user_guide: An e-mail will be send to user to invite him to complete his profile
+    messages:
+      general_error: There was an internal error
+      general_success: Operation completed with success
+      name_not_valid: Name not valid
+      surname_not_valid: Surname not valid
+      username_email_not_valid: Username / Email address not valid
+      password_not_valid: Password not valid
+      session_not_valid: Session not valid
+      username_not_valid: Username not valid
+      email_not_valid: Email not valid
+      user_not_valid: User not valid
+      groups_creation_unpermitted: Groups can not be created
+      groups_max_number_per_user: You have reached the maximum number of groups
+      user_update_success: User updated successfully
+      email_add_success: Email add success
+      email_delete_success: Email delete success
+      password_update_success: Password update success
+      username_update_success: Username update success
+    strings:
+      no_data_found_title: No data found
+      no_data_found_content: There are not data present on the system
+      no_result_found_title: No result found
+      no_result_found_content: No result found for the search
+      recover_password_complete_title: Email submitted
+      recover_password_complete_content: An email has been sent to you with information to continue updating your password.
+      update_password_complete_title: Password correctly updated
+      update_password_complete_content: Your credentials have been successfully updated. Now you can log in using the new password.
+      primary_address: Primary address
+      manage_users_permission: Ability to manage users and their permissions
+      action_confirmation_request: Are you sure to continue with this action?
+      administrator: Administrator
+      none: None
+      personalized: Personalized
