@@ -2,7 +2,7 @@
 
 Ruby on Rails engine per la creazione di pannelli di amministrazione, e non solo!
 
-Documentazione completa: <a href="https://github.com/ideonetwork/matilda-core/wiki">https://github.com/ideonetwork/matilda-core/wiki</a>
+Documentazione completa: <a href="https://github.com/1d3o/matilda-core-antd/wiki">https://github.com/1d3o/matilda-core-antd/wiki</a>
 
 ## Sviluppo
 
